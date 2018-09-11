@@ -1,0 +1,16 @@
+/*
+*Name(Jason Ortiz)
+*Class(Cecs 274)
+*Date(September 11, 2018)
+*/
+			//importing a library to scan inputs from user
+import java.util.Scanner
+public class longBeach Marathon 
+	{
+	public static void formatTime(int H, int M, int S)
+		{
+		System.out.printf("%d:%02d:%02d",H,M,S);
+		}
+	public static void main(String[] args)
+		{
+		S
